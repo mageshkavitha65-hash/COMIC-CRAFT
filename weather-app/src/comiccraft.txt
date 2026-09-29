@@ -1,0 +1,36 @@
+{
+  "title": "Neon Shadow",
+  "style": "Cyberpunk Manga, black and white ink, heavy contrast",
+  "characters": [
+    {
+      "name": "Kael",
+      "visual_description": "Young male, spiky silver hair, glowing blue cybernetic eye, dark leather jacket with neon trim"
+    }
+  ],
+  "panels": [
+    {
+      "panel_number": 1,
+      "camera_angle": "Wide angle, low shot",
+      "image_prompt": "Cyberpunk Manga, black and white ink. Kael stands on a rain-slicked neon street looking up at tall skyscrapers.",
+      "dialogue": [
+        {
+          "speaker": "Kael",
+          "type": "thought",
+          "text": "The city never sleeps... and neither do its ghosts."
+        }
+      ]
+    },
+    {
+      "panel_number": 2,
+      "camera_angle": "Close-up",
+      "image_prompt": "Cyberpunk Manga, black and white ink. Close-up of Kael's glowing blue eye reflecting digital data streams.",
+      "dialogue": [
+        {
+          "speaker": "Kael",
+          "type": "speech",
+          "text": "Found you."
+        }
+      ]
+    }
+  ]
+}

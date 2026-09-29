@@ -1,0 +1,37 @@
+body {
+  margin: 0;
+  font-family: Arial;
+  background: linear-gradient(#063864, #024a4e);
+}
+
+
+.app {
+  text-align: center;
+  margin-top: 100px;
+  margin-bottom: auto;
+}
+
+input {
+  padding: 12px;
+  width: 250px;
+  border-radius: 8px;
+  border: none;
+}
+
+button {
+  padding: 12px 20px;
+  margin-left: 10px;
+  border: none;
+  border-radius: 8px;
+  background: #db1515;
+  color: rgb(167, 209, 17);
+  cursor: pointer;
+}
+
+.weather-card {
+  background: white;
+  width: 300px;
+  margin: 30px auto;
+  padding: 20px;
+  border-radius: 15px;
+}
